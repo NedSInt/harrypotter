@@ -1,4 +1,4 @@
-# harrypotter
+# moviesapi
 
 ## Project setup
 ```
